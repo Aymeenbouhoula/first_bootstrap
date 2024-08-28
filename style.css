@@ -1,0 +1,30 @@
+.fa-brands{
+    text-align: center;
+    font-size: xxx-large;
+    color: blue;
+}
+.container h1{
+    color: blue;
+}
+.navbar .navbar-brand{
+    color: blue;
+    font-weight: bolder;
+}
+
+
+.collapse .navbar-nav .nav-item .nav-link{
+    color: red;
+    font-weight: bolder;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 50vh;
+    padding: 30px;
+}
+
+.footer{
+    display:grid;
+    
+}
